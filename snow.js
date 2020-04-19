@@ -1,10 +1,10 @@
 var snowmax=45;
-var snowcolor=new Array("#FFFFFF","#4169E1","#4682B4","#16346E","#FF4500")
+var snowcolor=new Array("#FF1493","#4682B4","#9370DB","#4682B4")
 var snowtype=new Array("Arial Black","Arial Narrow","Times","Comic Sans MS","font");
 var snowletter="*";
 var sinkspeed=2.2; 
 var snowmaxsize=15;
-var snowminsize=3;
+var snowminsize=4;
 var snowingzone=1;
   
   
